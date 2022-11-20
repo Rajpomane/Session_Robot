@@ -1,4 +1,4 @@
-## ❤️ Pyrogram And Telethon String Generator ❤️
+## 💫🖤 𝗛𝗔𝗖𝗞𝗘𝗥 𝗛𝗘𝗔𝗥𝗧 𝗦𝗧𝗥𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗢𝗡 💫🖤
 
 Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram Developed  ❤️
 
